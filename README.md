@@ -26,8 +26,8 @@ roku-control.exe -t [Roku Device IP] -p [port] -s [query/keypress] -c poweroff
 
 > [!WARNING]
 > Only Works on Linux with Ncat and Wireshark Installed
-> -l will create "roku_request.txt" and ncat to start listening for roku devices then, starts up wireshark with the correct filter for the devices.
-> the filter will not work right away on wireshark as you for now will have to copy the filter pick your listening device then put it back as a filter and press enter.
+-l will create "roku_request.txt" and ncat to start listening for roku devices then, starts up wireshark with the correct filter for the devices.
+ the filter will not work right away on wireshark as you for now will have to copy the filter pick your listening device then put it back as a filter and press enter.
 
 ## Working on
-- [] Making a functional reverse shell
+-[] Making a functional reverse shell
