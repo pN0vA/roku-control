@@ -2,7 +2,7 @@
 A rust tool accessing the roku api for external control
 
 ## Installation
- ###Building from source:
+ Building from source:
  
  git clone https://github.com/pN0vA/roku-control.git
  
