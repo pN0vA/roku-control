@@ -33,5 +33,6 @@ roku-control.exe -t [Roku Device IP] -p [port] -s [query/keypress] -c poweroff
  the filter will not work right away on wireshark as you for now will have to copy the filter pick your listening device then put it back as a filter and press enter.
 
 ## Working on
--[ ] Making a functional reverse shell
--[ ] Bug Fixes
+- [ ] Making a functional reverse shell
+
+- [ ] Bug Fixes
