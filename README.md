@@ -32,7 +32,9 @@ roku-control.exe -t [Roku Device IP] -p [port] -s [query/keypress] -c poweroff
 -l will create "roku_request.txt" and ncat to start listening for roku devices then, starts up wireshark with the correct filter for the devices.
  the filter will not work right away on wireshark as you for now will have to copy the filter pick your listening device then put it back as a filter and press enter.
 
+# [Resources](https://developer.roku.com/docs/developer-program/dev-tools/external-control-api.md)
+
 ## Working on
 - [ ] Making a functional reverse shell
-
+- [ ] Convert over to clap
 - [ ] Bug Fixes
